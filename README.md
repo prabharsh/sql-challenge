@@ -1,7 +1,8 @@
 # sql-challenge
 sql-challenge
-odule 9 Challenge
+Module 9 Challenge
 Due Thursday by 11:59pm Points 100 Submitting a text entry box or a website url
+
 Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
